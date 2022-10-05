@@ -93,6 +93,11 @@
             "name": "Frontend Web Developer",
             "startDate": "2022-01-01",
             "finishDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Participe en los proyectos del sector publico de Galicia."
+              }
+            ],
             "competences": [
               {
                 "name": "Docker",
