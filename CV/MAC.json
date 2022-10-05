@@ -201,6 +201,11 @@
             "name": "Desarrollador Junior",
             "startDate": "2020-03-01",
             "finishDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "Primera toma de contacto y aprendizaje de las distintas tecnologías más la metodología de trabajo para el desarrollo de un proyecto interno. "
+              }
+            ],
             "competences": [
               {
                 "name": ".Net Core",
