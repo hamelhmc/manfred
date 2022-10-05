@@ -400,6 +400,55 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "BOOTCAMP HACK A BOSS",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "HACK A BOSS",
+          "description": "🟢  Conocimientos conseguidos: \n▪️  Javascript (ES6)\n▪️  SQL \n▪️  HTML\n▪️  CSS\n▪️  GIT\n▪️  Node.js\n▪️  ReactJS \n▪️  Pair programming\n\n  \n🟠  Workshops\n▪️  Metodologias Ágiles\n▪️  GIT introducción y avanzado\n▪️  Marca Personal",
+          "URL": "https://www.hackaboss.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Gitflow",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "FP DUAL Desarrollo de aplicaciones web",
