@@ -1,0 +1,478 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Hamilton",
+      "surnames": "Mercado Cuellar",
+      "title": "FP Dual Desarrollo de aplicaciones web",
+      "description": "👋🏾 Hola, soy Hamilton, desarrollador. \nAprendiendo cada día algo nuevo e intentado dar lo mejor de mí. 💪🏾\n\n🌟 En lo que llevo como programador me he adaptado a varias tecnologías distintas \ngracias a los proyectos ambiciosos que sacan lo mejor de mí para poder aportar mi granito\nde arena en cada uno de ellos. 📚",
+      "avatar": {
+        "alt": "perfil.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/df79dde5-dfa5-46be-9dcf-557da28f257d_perfil.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Hamelshmc"
+      },
+      {
+        "type": "other",
+        "URL": "https://hamelshmc.github.io/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/HamelHMC"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/hamelhmc/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Hamel",
+        "fact": "📍  A Coruña / Galicia \n🌍 https://www.hamelshmc.github.io\n📧 hamiltonmercadocuellar@gmail.com\n\n🌟 28/05/1998  🎈\n🌟 Color preferido: Amarillo 🟡\n\n🙉 Intereses personales\n▪️ Remoto - Teletrabajo - Hibrido \n▪️ Mac / Linux"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Minsait",
+          "image": {
+            "alt": "1653564146991.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/7742068d-adbc-4a15-beed-9c81bf6c0f39_1653564146991.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bahia Software ",
+          "image": {
+            "alt": "1586903447856.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/86e04c29-dfb9-4fe5-819d-f459af9ba84e_1586903447856.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Servicios Reunidos. Expertos en punto de venta ",
+          "image": {
+            "alt": "1536178358469.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/7fea75ad-120c-4f71-ba07-4842a7334d0d_1536178358469.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Puppeteer",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Scrapy",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "alt": "1646898677177.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/6a35f233-bdb0-4429-a4d4-bbc262b9838f_1646898677177.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Junior",
+            "startDate": "2020-03-01",
+            "finishDate": "2020-08-01",
+            "competences": [
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "alt": "1646898677177.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/81ecc727-69a4-48be-8884-1ffa301e333d_1646898677177.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador júnior ",
+            "startDate": "2019-03-01",
+            "finishDate": "2019-08-01",
+            "competences": [
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "YourPlace",
+          "description": "Proyecto realizado por Martín Sieiro Gutiérrez  & Hamilton Mercado Cuellar ",
+          "URL": "https://yourplaceapp.herokuapp.com/",
+          "image": {
+            "alt": "111871542-01e24e80-898b-11eb-887c-086eb132a0d0.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/12885bf7-d6ac-40f5-86b0-9a3fe44e2c34_111871542-01e24e80-8.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/hamelhmc/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Apollo",
+          "type": "technology"
+        },
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MaterialUI",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Nest",
+          "type": "technology"
+        },
+        {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Primefaces",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        },
+        {
+          "name": "SwiftUI",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    }
+  }
+}
