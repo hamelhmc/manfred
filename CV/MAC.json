@@ -402,6 +402,61 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
+        "name": "FP DUAL Desarrollo de aplicaciones web",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "IES Fernando Wirtz Suárez"
+        },
+        "linkedCompetences": [
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
         "name": "Técnico Sistemas Microinformaticos y Redes",
         "startDate": "2018-09-01",
         "institution": {
