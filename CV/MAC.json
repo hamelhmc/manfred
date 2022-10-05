@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Hamilton",
       "surnames": "Mercado Cuellar",
-      "title": "FP Dual Desarrollo de aplicaciones web",
+      "title": "UX/UI Frontend Developer | Vue  Angular  React",
       "description": "👋🏾 Hola, soy Hamilton, desarrollador. \nAprendiendo cada día algo nuevo e intentado dar lo mejor de mí. 💪🏾\n\n🌟 En lo que llevo como programador me he adaptado a varias tecnologías distintas \ngracias a los proyectos ambiciosos que sacan lo mejor de mí para poder aportar mi granito\nde arena en cada uno de ellos. 📚",
       "avatar": {
         "alt": "perfil.jpg",
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña"
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
