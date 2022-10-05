@@ -139,6 +139,11 @@
             "name": "Frontend Web Developer",
             "startDate": "2021-03-01",
             "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Participe en el proyecto de un producto propio con un CRM. "
+              }
+            ],
             "competences": [
               {
                 "name": "Docker",
