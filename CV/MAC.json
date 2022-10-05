@@ -47,6 +47,21 @@
         "topic": "🤪 Otros ",
         "fact": "🎈 28/05/1998 \n🟡 Amarillo \n"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "MIDUDEV",
+        "type": "other",
+        "URL": "https://twitter.com/midudev",
+        "authors": [
+          {
+            "name": "Miguel",
+            "surnames": "Ángel Durán",
+            "title": "Author"
+          }
+        ],
+        "summary": "🧑‍💻 Te enseña a programar y a mejorar tu lógica de programación \n🚀 Es Desarrollador Full Stack JavaScript con 15 años de experiencia \n⭐ Es Reconocido como Google Developer Expert y GitHub Star\n"
+      }
     ]
   },
   "experience": {
