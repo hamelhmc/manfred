@@ -466,8 +466,36 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
+        "name": "Técnico Sistemas Microinformaticos y Redes",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "IES Fernando Wirtz Suárez"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Apache",
+            "type": "technology"
+          },
+          {
+            "name": "Cisco",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "FP DUAL Desarrollo de aplicaciones web",
-        "startDate": "2020-09-01",
+        "startDate": "2018-09-01",
+        "finishDate": "2020-09-01",
         "institution": {
           "name": "IES Fernando Wirtz Suárez"
         },
@@ -514,33 +542,6 @@
           },
           {
             "name": "XML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Técnico Sistemas Microinformaticos y Redes",
-        "startDate": "2018-09-01",
-        "institution": {
-          "name": "IES Fernando Wirtz Suárez"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Apache",
-            "type": "technology"
-          },
-          {
-            "name": "Cisco",
-            "type": "technology"
-          },
-          {
-            "name": "Linux",
-            "type": "technology"
-          },
-          {
-            "name": "Windows",
             "type": "technology"
           }
         ]
