@@ -243,6 +243,11 @@
             "name": "Desarrollador júnior ",
             "startDate": "2019-03-01",
             "finishDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "Primera toma de contacto y aprendizaje de las distintas tecnologías más la metodología de trabajo para el desarrollo de un proyecto interno. "
+              }
+            ],
             "competences": [
               {
                 "name": ".Net Core",
