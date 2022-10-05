@@ -416,9 +416,10 @@
     "studies": [
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "BOOTCAMP HACK A BOSS",
-        "startDate": "2021-03-01",
+        "startDate": "2020-11-01",
+        "finishDate": "2021-04-01",
         "institution": {
           "name": "HACK A BOSS",
           "description": "🟢  Conocimientos conseguidos: \n▪️  Javascript (ES6)\n▪️  SQL \n▪️  HTML\n▪️  CSS\n▪️  GIT\n▪️  Node.js\n▪️  ReactJS \n▪️  Pair programming\n\n  \n🟠  Workshops\n▪️  Metodologias Ágiles\n▪️  GIT introducción y avanzado\n▪️  Marca Personal",
