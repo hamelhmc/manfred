@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -326,7 +325,7 @@
       {
         "details": {
           "name": "YourPlace",
-          "description": "Proyecto realizado por Martín Sieiro Gutiérrez  & Hamilton Mercado Cuellar ",
+          "description": "Proyecto realizado por Martín Sieiro Gutiérrez  & Hamilton Mercado Cuellar \n\nhttps://youtu.be/Mi66dcoQ3xk",
           "URL": "https://yourplaceapp.herokuapp.com/",
           "image": {
             "alt": "111871542-01e24e80-898b-11eb-887c-086eb132a0d0.png",
