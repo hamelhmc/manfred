@@ -636,6 +636,12 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Mobile Developer"
       ]
     },
     "status": "openToOffers"
