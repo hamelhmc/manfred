@@ -61,6 +61,109 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Minsait "
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Participo en distintos proyectos y la creación de una librería para un banco. Algunas de las tecnologías y herramientas que utilizo durante este proyecto incluyen:\n\n▪️ Angular 6...13 🌀 \n▪️ Typescript 4.8+ 📝 \n▪️ Gitlab CI/CD 🌐 \n▪️ HTML con accessibility 🌐 \n▪️ CSS or SCSS 🎨 \n▪️ Test con Jasmine 🔬 \n▪️ Visual Studio Code 💻\n\nEs emocionante poder trabajar en la creación de una librería para un banco y aprender sobre cómo se desarrollan proyectos en este sector. También disfrutó de la oportunidad de colaborar en distintos proyectos y utilizar mis habilidades para contribuir al éxito de cada uno de ellos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bahia Software "
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "Participe en los proyectos del sector público de Galicia. Algunas de las tecnologías y herramientas que utilicé durante este proyecto incluyen:\n\n▪️ VueJS 3.x (composition api) | Pinia 🌀 \n▪️ Vite 2..3 💻 \n▪️ TypeScript 4.x 📝 \n▪️ HTML 🌐 \n▪️ CSS/SASS/Postcss 🎨 \n▪️ Visual Studio Code 💻\n▪️ Docker 🐳\n▪️ Web Components 🌀 \n▪️ SVN / Git 🌐 \n▪️ Domain Driver Design (DDD) 📚 \n▪️ Test con Vitest 🔬\n\nLa metodología de trabajo que seguimos en este proyecto fue SCRUM. Me encantó poder trabajar en proyectos del sector público y aprender sobre el funcionamiento de este sector."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Servicios Reunidos. Expertos en punto de venta "
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-01-31",
+            "challenges": [
+              {
+                "description": " helped me get this job"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra "
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Junior",
+            "startDate": "2020-03-01",
+            "finishDate": "2020-08-31",
+            "challenges": [
+              {
+                "description": "Durante mi primera toma de contacto con el mundo del desarrollo de software, he tenido la oportunidad de aprender sobre las siguientes tecnologías y herramientas:\n\n▪️ Angular 🌀 \n▪️ REST APIs con .NET / C# 💾 \n▪️ Metodología ágil SCRUM 🐞 \n▪️GitLab 🌐 \n▪️ Visual Studio Code 💻 \n▪️ Visual Code Community 💻 \n▪️ SQL Management Studio 🗂️\n▪️ Chrome DevTools 🔧 \n▪️ Microsoft Teams 🤝 \n▪️ SASS 🎨\n\nMe encantó poder tener una primera toma de contacto con estas tecnologías y herramientas, y estoy emocionado de seguir aprendiendo y profundizando en ellas. Además, me pareció muy útil la metodología ágil SCRUM para el desarrollo de proyectos, ya que me permitió trabajar de manera más eficiente y adaptarme a los cambios que surgen durante el proceso de desarrollo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra "
+        },
+        "roles": [
+          {
+            "name": "Desarrollador júnior ",
+            "startDate": "2019-03-01",
+            "finishDate": "2019-08-31",
+            "challenges": [
+              {
+                "description": "Durante mi primera toma de contacto con el mundo del desarrollo de software, he tenido la oportunidad de aprender sobre las siguientes tecnologías y herramientas:\n\n▪️ Angular 🌀 \n▪️ REST APIs con .NET / C# 💾 \n▪️ Metodología ágil SCRUM 🐞 \n▪️GitLab 🌐 \n▪️ Visual Studio Code 💻 \n▪️ Visual Code Community 💻 \n▪️ SQL Management Studio 🗂️\n▪️ Chrome DevTools 🔧 \n▪️ Microsoft Teams 🤝 \n▪️ SASS 🎨\n\nMe encantó poder tener una primera toma de contacto con estas tecnologías y herramientas, y estoy emocionado de seguir aprendiendo y profundizando en ellas. Además, me pareció muy útil la metodología ágil SCRUM para el desarrollo de proyectos, ya que me permitió trabajar de manera más eficiente y adaptarme a los cambios que surgen durante el proceso de desarrollo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Replay | Proveedor de Servicios Autorizado Apple "
+        },
+        "roles": [
+          {
+            "name": "Servicio técnico",
+            "startDate": "2018-04-01",
+            "finishDate": "2018-06-30",
+            "challenges": [
+              {
+                "description": "Práticas "
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
@@ -110,11 +213,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -387,12 +485,6 @@
           "name": "JAVA",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer",
-        "Frontend Developer",
-        "Full-stack Developer",
-        "Mobile Developer"
       ]
     }
   }
