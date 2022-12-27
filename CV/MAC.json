@@ -179,6 +179,10 @@
                 "type": "technology"
               },
               {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
                 "name": "Visual Studio Code",
                 "type": "technology"
               }
