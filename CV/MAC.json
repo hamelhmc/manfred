@@ -64,44 +64,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Minsait",
-          "image": {
-            "alt": "1653564146991.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/7742068d-adbc-4a15-beed-9c81bf6c0f39_1653564146991.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Web Developer",
-            "startDate": "2022-09-01",
-            "challenges": [
-              {
-                "description": "Participo en distintos proyectos y la creación de una librería para un banco."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Minsait "
         },
         "roles": [
