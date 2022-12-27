@@ -74,6 +74,28 @@
               {
                 "description": "Participo en distintos proyectos y la creación de una librería para un banco. Algunas de las tecnologías y herramientas que utilizo durante este proyecto incluyen:\n\n▪️ Angular 6...13 🌀 \n▪️ Typescript 4.8+ 📝 \n▪️ Gitlab CI/CD 🌐 \n▪️ HTML con accessibility 🌐 \n▪️ CSS or SCSS 🎨 \n▪️ Test con Jasmine 🔬 \n▪️ Visual Studio Code 💻\n\nEs emocionante poder trabajar en la creación de una librería para un banco y aprender sobre cómo se desarrollan proyectos en este sector. También disfrutó de la oportunidad de colaborar en distintos proyectos y utilizar mis habilidades para contribuir al éxito de cada uno de ellos."
               }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
             ]
           }
         ]
