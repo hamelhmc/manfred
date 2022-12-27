@@ -236,53 +236,6 @@
       },
       {
         "organization": {
-          "name": "Indra",
-          "image": {
-            "alt": "1646898677177.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/6a35f233-bdb0-4429-a4d4-bbc262b9838f_1646898677177.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Junior",
-            "startDate": "2020-03-01",
-            "finishDate": "2020-09-01",
-            "challenges": [
-              {
-                "description": "Primera toma de contacto y aprendizaje de las distintas tecnologías más la metodología de trabajo para el desarrollo de un proyecto interno. "
-              }
-            ],
-            "competences": [
-              {
-                "name": ".Net Core",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "GitLab",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Indra "
         },
         "roles": [
