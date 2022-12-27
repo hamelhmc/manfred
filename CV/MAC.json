@@ -106,7 +106,45 @@
             "finishDate": "2022-01-31",
             "challenges": [
               {
-                "description": " helped me get this job"
+                "description": "Tuve la oportunidad de participar en el proyecto de un producto propio con un CRM. Algunas de las tecnologías y herramientas que utilicé durante este proyecto incluyen:\n\n▪️ VueJS 3 (composition api) 💻 \n▪️ GraphQL (Hasura) 💾 \n▪️ HTML 🌐 \n▪️ SASS 🎨 \n▪️ Visual Studio Code 💻 \n▪️ Mongo DB 🗂️ \n▪️ Docker / Kubernetes 🐳 \n▪️ Web Scraping (python) 🐍 \n▪️ Google Maps API 🗺️\n\nLa metodología de trabajo que seguimos en este proyecto fue KANBAN. Me encantó poder utilizar estas tecnologías y herramientas para desarrollar un producto propio y aprender sobre el funcionamiento de un CRM."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Scrapy",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
               }
             ]
           }
