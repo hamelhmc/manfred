@@ -447,7 +447,8 @@
         "startDate": "2018-09-01",
         "finishDate": "2020-09-01",
         "institution": {
-          "name": "IES Fernando Wirtz Suárez"
+          "name": "IES Fernando Wirtz Suárez",
+          "description": "💻 Tuve la oportunidad de adquirir una amplia variedad de habilidades y conocimientos en el mundo del desarrollo de software. Algunos de mis logros incluyen:\n\n🟢 Conocimientos en Java y Javascript (ES6), que me permitieron desarrollar aplicaciones web. \n\n🗂️ Adquirir conocimientos en SQL Server y MongoDB, lo que me permitió trabajar con bases de datos de manera eficiente y segura.\n\n🌀 Aprendí sobre Angular y REST APIs con .NET / C#, lo que me permitió desarrollar aplicaciones web con una interfaz de usuario atractiva y funcional.\n\n🏗️ Aprender sobre la metodología ágil SCRUM, lo que me permitió trabajar de manera más eficiente y adaptarme a los cambios que surgen durante el proceso de desarrollo.\n\n💾 Adquirir habilidades en GitLab, Visual Studio Code, Visual Code Community, SQL Management Studio y Chrome DevTools, lo que me permitió manejar y controlar el código de manera eficiente.\n\nFinalmente, tuve la oportunidad de completar mi formación en INDRA."
         },
         "linkedCompetences": [
           {
