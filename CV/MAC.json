@@ -91,6 +91,40 @@
               {
                 "description": "Participe en los proyectos del sector público de Galicia. Algunas de las tecnologías y herramientas que utilicé durante este proyecto incluyen:\n\n▪️ VueJS 3.x (composition api) | Pinia 🌀 \n▪️ Vite 2..3 💻 \n▪️ TypeScript 4.x 📝 \n▪️ HTML 🌐 \n▪️ CSS/SASS/Postcss 🎨 \n▪️ Visual Studio Code 💻\n▪️ Docker 🐳\n▪️ Web Components 🌀 \n▪️ SVN / Git 🌐 \n▪️ Domain Driver Design (DDD) 📚 \n▪️ Test con Vitest 🔬\n\nLa metodología de trabajo que seguimos en este proyecto fue SCRUM. Me encantó poder trabajar en proyectos del sector público y aprender sobre el funcionamiento de este sector."
               }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              }
             ]
           }
         ]
