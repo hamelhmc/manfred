@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -65,7 +64,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Minsait "
+          "name": "Minsait ",
+          "URL": "https://www.linkedin.com/company/minsait/mycompany/"
         },
         "roles": [
           {
@@ -354,12 +354,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -515,8 +513,7 @@
         "startDate": "2016-09-01",
         "finishDate": "2018-06-01",
         "institution": {
-          "name": "IES Fernando Wirtz Suárez",
-          "description": ""
+          "name": "IES Fernando Wirtz Suárez"
         },
         "linkedCompetences": [
           {
@@ -643,7 +640,6 @@
         "Full-stack Developer",
         "Mobile Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
