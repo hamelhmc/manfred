@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Hamilton",
       "surnames": "Mercado Cuellar",
       "title": "💡 Full-Stack Developer | Angular Vue React Astro Node.js",
-      "description": "👋🏾 Hola, soy Hamilton y soy un desarrollador 💻 aprendiendo cada día algo nuevo y tratando de dar lo mejor de mí. He trabajado con una amplia variedad de tecnologías gracias a los proyectos ambiciosos que me han permitido aportar mi granito de arena 🌟.\n\nSiempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarrollador. Me gusta 🤓 desafiarme y 🔍 buscar oportunidades para 📈 crecer en mi carrera. El 📈 aprendizaje continuo es clave para mi 🏆 éxito y estoy 💪 comprometido con 📚 seguir desarrollando mis 💻 habilidades y conocimientos.",
+      "description": "",
       "avatar": {
         "alt": "perfil.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/df79dde5-dfa5-46be-9dcf-557da28f257d_perfil.jpg"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña"
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -358,10 +359,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -517,7 +520,8 @@
         "startDate": "2016-09-01",
         "finishDate": "2018-06-01",
         "institution": {
-          "name": "IES Fernando Wirtz Suárez"
+          "name": "IES Fernando Wirtz Suárez",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -644,6 +648,7 @@
         "Full-stack Developer",
         "Mobile Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
