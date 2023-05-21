@@ -660,12 +660,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
