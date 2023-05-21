@@ -678,11 +678,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
         "name": "Git",
         "type": "technology"
       },
       {
         "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
         "type": "technology"
       }
     ],
