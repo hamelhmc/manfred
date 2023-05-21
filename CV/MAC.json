@@ -676,6 +676,16 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "- Desarrollo de aplicaciones web o móviles utilizando diferentes tecnologías.\n\n- Diseño y desarrollo de interfaces de usuario (UI) y experiencia de usuario (UX) atractivas y fáciles de usar.\n\n- Trabajo en equipo y colaboración con otros desarrolladores y profesionales de TI para resolver problemas y mejorar productos.\n\n- Aplicación de metodologías ágiles y buenas prácticas de desarrollo, como el código limpio y el desarrollo de productos mínimos viables (MVP).\n\nLo que me motiva podría ser la oportunidad de trabajar en proyectos interesantes y desafiantes que me permitan seguir aprendiendo y mejorando mis habilidades. Valoraría un entorno de trabajo que me permita trabajar en equipo y colaborar con otros profesionales, y que me ofrezca oportunidades de formación y crecimiento.\n\nUn día de trabajo ideal para mi podría incluir tiempo para codificar y resolver problemas técnicos, así como tiempo para colaborar con otros miembros del equipo y participar en reuniones y discusiones técnicas.",
     "projects": [
       {
