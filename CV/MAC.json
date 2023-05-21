@@ -11,34 +11,16 @@
       "title": "💡 Full-Stack Developer | Angular Vue React Astro Node.js",
       "description": "Soy un desarrollador full-stack aprendiendo cada día algo nuevo y tratando de dar lo mejor de mí. He trabajado con una amplia variedad de tecnologías gracias a los proyectos ambiciosos que me han permitido aportar mi granito de arena 🌟.\n\nSiempre estoy dispuesto a afrontar nuevos retos y 🚀 mejorar como desarrollador. Me gusta desafiarme y 🔍 buscar oportunidades para 📈 crecer en mi carrera. El aprendizaje continuo es clave para mi éxito y estoy comprometido con seguir desarrollando mis habilidades y conocimientos.",
       "avatar": {
-        "alt": "perfil.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/df79dde5-dfa5-46be-9dcf-557da28f257d_perfil.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/df79dde5-dfa5-46be-9dcf-557da28f257d_perfil.jpg",
+        "alt": "perfil.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "La Coruña"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/Hamelshmc"
-      },
-      {
-        "type": "other",
-        "URL": "https://hamelshmc.github.io/"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/HamelHMC"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/hamelhmc/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "🙉 Intereses personales",
@@ -50,14 +32,20 @@
         "title": "Midudev",
         "type": "other",
         "URL": "https://twitter.com/midudev",
+        "summary": "🧑‍💻 Te enseña a programar y a mejorar tu lógica de programación \n🚀 Es Desarrollador Full Stack JavaScript con 15 años de experiencia \n⭐ Es Reconocido como Google Developer Expert y GitHub Star\n",
         "authors": [
           {
             "name": "Miguel",
             "surnames": "Ángel Durán",
             "title": "Author"
           }
-        ],
-        "summary": "🧑‍💻 Te enseña a programar y a mejorar tu lógica de programación \n🚀 Es Desarrollador Full Stack JavaScript con 15 años de experiencia \n⭐ Es Reconocido como Google Developer Expert y GitHub Star\n"
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://hamelshmc.github.io/"
       }
     ]
   },
@@ -315,8 +303,8 @@
           "description": "Proyecto realizado por Martín Sieiro Gutiérrez  & Hamilton Mercado Cuellar \n\nhttps://youtu.be/Mi66dcoQ3xk",
           "URL": "https://yourplaceapp.herokuapp.com/",
           "image": {
-            "alt": "111871542-01e24e80-898b-11eb-887c-086eb132a0d0.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/12885bf7-d6ac-40f5-86b0-9a3fe44e2c34_111871542-01e24e80-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/12885bf7-d6ac-40f5-86b0-9a3fe44e2c34_111871542-01e24e80-8.png",
+            "alt": "111871542-01e24e80-898b-11eb-887c-086eb132a0d0.png"
           }
         },
         "type": "openSource",
@@ -324,7 +312,6 @@
           {
             "name": "Developer",
             "startDate": "2021-01-01",
-            "finishDate": "2021-03-01",
             "competences": [
               {
                 "name": "CSS",
@@ -350,7 +337,8 @@
                 "name": "React",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2021-03-01"
           }
         ]
       }
@@ -359,27 +347,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Inglés",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Angular2+",
@@ -388,7 +364,7 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -400,7 +376,19 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -411,12 +399,12 @@
         "degreeAchieved": true,
         "name": "BOOTCAMP HACK A BOSS",
         "startDate": "2020-11-01",
-        "finishDate": "2021-04-01",
         "institution": {
           "name": "HACK A BOSS",
           "description": "Durante mi paso por el Bootcamp, adquirí una gran cantidad de conocimientos y habilidades valiosas 🤝, incluyendo:\n\n🟢 Conocimientos conseguidos: \n▪️ JavaScript (ES6) \n▪️ SQL \n▪️ HTML \n▪️ CSS \n▪️ GIT \n▪️ Node.js \n▪️ ReactJS \n▪️ Pair programming\n\n🟠 Workshops: \n▪️ Metodologías ágiles \n▪️ GIT introducción y avanzado \n▪️ Marca personal\n\nMe encantó poder tener una primera toma de contacto con estas tecnologías y herramientas y estoy emocionado de seguir aprendiendo y profundizando en ellas 🤗. Además, la oportunidad de participar en workshops y aprender sobre temas como las metodologías ágiles y la marca personal me resultó muy útil y enriquecedora 🧑‍💼.",
           "URL": "https://www.hackaboss.com/"
         },
+        "finishDate": "2021-04-01",
         "linkedCompetences": [
           {
             "name": "CSS",
@@ -461,11 +449,11 @@
         "degreeAchieved": true,
         "name": "FP DUAL Desarrollo de aplicaciones web",
         "startDate": "2018-09-01",
-        "finishDate": "2020-09-01",
         "institution": {
           "name": "IES Fernando Wirtz Suárez",
           "description": "💻 Tuve la oportunidad de adquirir una amplia variedad de habilidades y conocimientos en el mundo del desarrollo de software. Algunos de mis logros incluyen:\n\n🟢 Conocimientos en Java y Javascript (ES6), que me permitieron desarrollar aplicaciones web. \n\n🗂️ Adquirir conocimientos en SQL Server y MongoDB, lo que me permitió trabajar con bases de datos de manera eficiente y segura.\n\n🌀 Aprendí sobre Angular y REST APIs con .NET / C#, lo que me permitió desarrollar aplicaciones web con una interfaz de usuario atractiva y funcional.\n\n🏗️ Aprender sobre la metodología ágil SCRUM, lo que me permitió trabajar de manera más eficiente y adaptarme a los cambios que surgen durante el proceso de desarrollo.\n\n💾 Adquirir habilidades en GitLab, Visual Studio Code, Visual Code Community, SQL Management Studio y Chrome DevTools, lo que me permitió manejar y controlar el código de manera eficiente.\n\nFinalmente, tuve la oportunidad de completar mi formación en INDRA."
         },
+        "finishDate": "2020-09-01",
         "linkedCompetences": [
           {
             "name": ".Net Core",
@@ -518,11 +506,10 @@
         "degreeAchieved": true,
         "name": "Técnico Sistemas Microinformaticos y Redes",
         "startDate": "2016-09-01",
-        "finishDate": "2018-06-01",
         "institution": {
-          "name": "IES Fernando Wirtz Suárez",
-          "description": ""
+          "name": "IES Fernando Wirtz Suárez"
         },
+        "finishDate": "2018-06-01",
         "linkedCompetences": [
           {
             "name": "Apache",
@@ -542,14 +529,51 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/hamelhmc/"
+          "URL": "https://www.linkedin.com/in/hamelhmc/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Hamelshmc",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/HamelHMC",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "Hamiltonmercadocuellar@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "648759635",
+          "countryCode": "+34"
         }
       ]
     },
@@ -650,5 +674,13 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "- Desarrollo de aplicaciones web o móviles utilizando diferentes tecnologías.\n\n- Diseño y desarrollo de interfaces de usuario (UI) y experiencia de usuario (UX) atractivas y fáciles de usar.\n\n- Trabajo en equipo y colaboración con otros desarrolladores y profesionales de TI para resolver problemas y mejorar productos.\n\n- Aplicación de metodologías ágiles y buenas prácticas de desarrollo, como el código limpio y el desarrollo de productos mínimos viables (MVP).\n\nLo que me motiva podría ser la oportunidad de trabajar en proyectos interesantes y desafiantes que me permitan seguir aprendiendo y mejorando mis habilidades. Valoraría un entorno de trabajo que me permita trabajar en equipo y colaborar con otros profesionales, y que me ofrezca oportunidades de formación y crecimiento.\n\nUn día de trabajo ideal para mi podría incluir tiempo para codificar y resolver problemas técnicos, así como tiempo para colaborar con otros miembros del equipo y participar en reuniones y discusiones técnicas.",
+    "projects": [
+      {
+        "name": "YourPlace"
+      }
+    ]
   }
 }
