@@ -347,12 +347,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
+        "name": "EN",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Inglés",
-        "level": "Limited working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
