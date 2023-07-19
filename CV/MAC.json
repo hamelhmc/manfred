@@ -62,7 +62,7 @@
             "startDate": "2022-09-01",
             "challenges": [
               {
-                "description": "Participo en distintos proyectos y la creación de una librería para un banco. Algunas de las tecnologías y herramientas que utilizo durante este proyecto incluyen:\n\n▪️ Angular 6...13 🌀 \n▪️ Typescript 4.8+ 📝 \n▪️ Gitlab CI/CD 🌐 \n▪️ HTML con accessibility 🌐 \n▪️ CSS or SCSS 🎨 \n▪️ Test con Jasmine 🔬 \n▪️ Visual Studio Code 💻\n\nEs emocionante poder trabajar en la creación de una librería para un banco y aprender sobre cómo se desarrollan proyectos en este sector. También disfrutó de la oportunidad de colaborar en distintos proyectos y utilizar mis habilidades para contribuir al éxito de cada uno de ellos."
+                "description": "Como desarrollador Frontend en Minsait: \n\n- Desarrollo de bibliotecas en Angular (versión 6 hasta 13) para optimizar la iniciación de proyectos de banca, enfocándome en la reutilización de componentes.\n- Gestión de tareas y ciclos de desarrollo a través de GitLab, con especial atención en la integración continua (CI) y la entrega continua (CD).\n- Automatización de procesos de desarrollo mediante la creación de scripts personalizados en JavaScript.\n- Administración de paquetes y control de versiones utilizando npm y Node.js.\n- Creación de \"schematics\" propios en Angular para la generación automática de componentes y módulos.\n- Implementación de configuraciones personalizadas de Eslint para mantener la consistencia y calidad del código.\n\n📌 Tecnologías utilizadas:\n\n- Angular \n- Typescript\n- GitLab CI/CD\n- HTML\n- CSS / SCSS\n- Jasmine\n- Visual Studio Code"
               }
             ],
             "competences": [
@@ -560,11 +560,11 @@
         },
         {
           "URL": "https://github.com/Hamelshmc",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/HamelHMC",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
@@ -697,6 +697,11 @@
     "projects": [
       {
         "name": "YourPlace"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Midudev"
       }
     ]
   }
