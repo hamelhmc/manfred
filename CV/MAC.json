@@ -377,12 +377,6 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
