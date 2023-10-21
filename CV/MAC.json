@@ -44,6 +44,18 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/hamelhmc/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Hamelhmc"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/HamelHMC"
+      },
+      {
         "type": "other",
         "URL": "https://hamelhmc.github.io/"
       }
@@ -62,7 +74,7 @@
             "startDate": "2022-09-01",
             "challenges": [
               {
-                "description": "Como desarrollador Frontend en Minsait: \n\n- Desarrollo de bibliotecas en Angular (versión 6 hasta 13) para optimizar la iniciación de proyectos de banca, enfocándome en la reutilización de componentes.\n- Gestión de tareas y ciclos de desarrollo a través de GitLab, con especial atención en la integración continua (CI) y la entrega continua (CD).\n- Automatización de procesos de desarrollo mediante la creación de scripts personalizados en JavaScript.\n- Administración de paquetes y control de versiones utilizando npm y Node.js.\n- Creación de \"schematics\" propios en Angular para la generación automática de componentes y módulos.\n- Implementación de configuraciones personalizadas de Eslint para mantener la consistencia y calidad del código.\n\n📌 Tecnologías utilizadas:\n\n- Angular \n- Typescript\n- GitLab CI/CD\n- HTML\n- CSS / SCSS\n- Jasmine\n- Visual Studio Code"
+                "description": "Como desarrollador Frontend en Minsait: \n\n- Desarrollé bibliotecas en Angular para proyectos de banca, optimizando la iniciación de proyectos mediante la reutilización de componentes, lo que redujo significativamente el tiempo de desarrollo y mejoró la consistencia del diseño.\n- Implementé la integración continua (CI) y la entrega continua (CD) utilizando GitLab.\n- Automatización de procesos de desarrollo mediante scripts personalizados en JavaScript.\n- Administración de paquetes y control de versiones utilizando npm y Node.js.\n- Creación de \"schematics\" propios en Angular para la generación automática de componentes y módulos, mejorando la consistencia del código y la productividad del equipo.\n- Implementación de configuraciones personalizadas de Eslint para mantener la calidad del código, lo que resultó en una base de código más limpia y fácil de mantener.\n\n📌 Tecnologías utilizadas:\n\n- Angular \n- Typescript\n- GitLab CI/CD\n- HTML\n- CSS / SCSS\n- Jasmine\n- Visual Studio Code"
               }
             ],
             "competences": [
