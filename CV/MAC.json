@@ -391,6 +391,7 @@
         "startDate": "2020-11-01",
         "institution": {
           "name": "HACK A BOSS",
+          "URL": "https://www.hackaboss.com/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/13/f1392afe-d110-40bc-a90d-3c12fe0e0d9b_linkedin-photo-9741.linkedin-photo-9741",
             "alt": "24/04/13/f1392afe-d110-40bc-a90d-3c12fe0e0d9b_linkedin-photo-9741.linkedin-photo-9741"
