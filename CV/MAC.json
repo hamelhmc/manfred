@@ -134,7 +134,7 @@
             "finishDate": "2022-01-31",
             "challenges": [
               {
-                "description": "Como desarrollador Frontend en Servicios Reunidos:\n\n- Contribuí al desarrollo de un CRM y backoffice propio utilizando VueJS, GraphQL, HTML y SASS,\nmejorando la gestión y visualización de datos de clientes y simplificando las operaciones internas.\n- Gestioné datos con MongoDB y apliqué técnicas de Web Scraping con Python.\n- Empleé GraphQL (Hasura) para gestionar y manipular datos en nuestra base de datos.\n- Utilicé la Google Maps API para implementar funcionalidades de geolocalización.\n- Trabajo en equipo siguiendo la metodología KANBAN.\n\n📌 Tecnologías utilizadas:\n\n- VueJS 3\n- GraphQL (Hasura)\n- HTML\n- SASS\n- Visual Studio Code\n- MongoDB\n- Docker\n- Web Scraping (Python)\n- Google Maps API"
+                "description": "- Contribuí al desarrollo de un CRM y backoffice propio utilizando VueJS, GraphQL, HTML y SASS,\nmejorando la gestión y visualización de datos de clientes y simplificando las operaciones internas.\n- Gestioné datos con MongoDB y apliqué técnicas de Web Scraping con Python.\n- Empleé GraphQL (Hasura) para gestionar y manipular datos en nuestra base de datos.\n- Utilicé la Google Maps API para implementar funcionalidades de geolocalización.\n- Trabajo en equipo siguiendo la metodología KANBAN.\n\n📌 Tecnologías utilizadas:\n\n- VueJS 3\n- GraphQL (Hasura)\n- HTML\n- SASS\n- Visual Studio Code\n- MongoDB\n- Docker\n- Web Scraping (Python)\n- Google Maps API"
               }
             ]
           }
