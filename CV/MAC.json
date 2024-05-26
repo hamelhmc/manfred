@@ -8,11 +8,11 @@
     "profile": {
       "name": "Hamilton",
       "surnames": "M.",
-      "title": "Frontend Developer | Angular | VueJS | TypeScript",
+      "title": "Frontend Developer | Angular, VueJS y TypeScript | Desarrollo de Aplicaciones Web",
       "description": "Mi enfoque se centra en hallar soluciones prácticas y eficientes para los desafíos del desarrollo frontend. Cada experiencia la considero una oportunidad de aprendizaje, lo que me impulsa a buscar constantemente mejoras en mi carrera profesional. He trabajado en una variedad de tecnologías, desde Angular y Vue hasta React, Astro y Node.js, en proyectos ambiciosos que me han permitido contribuir significativamente.\n\nMe motiva enfrentar nuevos desafíos y crecer como desarrollador. Disfruto buscando oportunidades para superarme y ampliar mis habilidades. Reconozco la importancia del aprendizaje continuo, tanto en mi crecimiento personal como profesional. Aprecio las oportunidades que he tenido hasta ahora y espero con entusiasmo lo que el futuro pueda deparar. Mi objetivo es aportar mi experiencia y pasión al éxito de equipos dinámicos y colaborativos. 🚀🌱\n\n🧠 Habilidades:\n\n🤝 Trabajo en equipo\n🎨 Desarrollo centrado en la experiencia de usuario (UX/UI)\n🛠️ Buenas prácticas de desarrollo, incluyendo código limpio y desarrollo de productos mínimos viables (MVP)\n🔄 Metodologías ágiles\n📚 Aprendizaje constante\n💪 Compromiso\n👩‍💻 Angular, Vue, React, Astro, Node.js\n\n🚀 Tecnologías:\nTengo experiencia en Angular, Vue, React, Astro, Node.js, así como en JavaScript, TypeScript, HTML, CSS, SQL, MongoDB, C#, .NET, Java y GraphQL.\n\n✨ Metodologías:\nAplico metodologías como BEM, SCRUM, SOLID, Atomic Design y Domain Driven Design en mis proyectos.\n\n⚙️ Herramientas:\nUtilizo Git, GitHub, GitLab, VSCode, SQL Management Studio, Notion, Postman y Docker en mi trabajo 💻.\n\n🌍 Intereses personales:\nActualmente resido en A Coruña, Galicia, una hermosa región costera 🌊. Me interesa el teletrabajo y el trabajo híbrido, así como el desarrollo tanto frontend como backend. También soy un gran fan de los ordenadores Mac y el sistema operativo Linux 🐧. Mi color favorito es el amarillo 🟡.\n\n📧 Contacto:\nPuedes ver mi trabajo en mi sitio web: https://www.hamelhmc.github.io.\nSi deseas contactarme, no dudes en escribirme a mi correo electrónico: hamiltonmercadocuellar@gmail.com.\n\n🙏 ¡Gracias por tomarte el tiempo de leer hasta aquí!",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/a1fbc1b7-7dc6-423e-81f7-4f5f56369303_linkedin-photo-9741.linkedin-photo-9741",
-        "alt": "24/05/21/a1fbc1b7-7dc6-423e-81f7-4f5f56369303_linkedin-photo-9741.linkedin-photo-9741"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/26/93523f26-39eb-4754-94c8-bbf4f9bbd615_linkedin-photo-9741.linkedin-photo-9741",
+        "alt": "24/05/26/93523f26-39eb-4754-94c8-bbf4f9bbd615_linkedin-photo-9741.linkedin-photo-9741"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
@@ -61,150 +61,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "knowmad mood",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/ddd6b47e-8c6c-47bc-b1df-1f47be153f04_linkedin-photo-9741.linkedin-photo-9741",
-            "alt": "24/05/21/ddd6b47e-8c6c-47bc-b1df-1f47be153f04_linkedin-photo-9741.linkedin-photo-9741"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Web Developer",
-            "startDate": "2024-03-01",
-            "challenges": [
-              {
-                "description": "Skills: Componentes web · Branding · Automatización · Seguimiento · Tecnologías web · Automatización de pruebas · Sistema de gestión de bases de datos (SGBD) · Patrones de diseño · Marca personal · Factoring · Puesta en producción · Diseño web · Diseño de software · Aprendizaje · Principios SOLID"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Minsait",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/5a7453e3-ddb7-4108-8388-d774c2b7ff22_linkedin-photo-9741.linkedin-photo-9741",
-            "alt": "24/05/21/5a7453e3-ddb7-4108-8388-d774c2b7ff22_linkedin-photo-9741.linkedin-photo-9741"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Web Developer | Angular",
-            "startDate": "2022-09-01",
-            "finishDate": "2024-03-31",
-            "challenges": [
-              {
-                "description": "Desarrollador Frontend en Minsait:\n\n- **Desarrollo de Bibliotecas Angular**: Creé bibliotecas en Angular para proyectos bancarios, aumentando la eficiencia mediante la reutilización de componentes, servicios y lógica de negocio.\n- **Gestión CI/CD**: Gestioné tareas y procesos CI/CD utilizando GitLab, garantizando entregas rápidas y confiables.\n- **Pruebas de Calidad**: Realicé pruebas unitarias con Jasmine y Karma, asegurando la calidad y fiabilidad del código.\n- **Automatización con JavaScript**: Automatizé procesos de desarrollo mediante scripts en JavaScript, mejorando la productividad del equipo.\n- **Configuraciones Personalizadas de Eslint**: Implementé configuraciones personalizadas de Eslint para mantener alta calidad del código y asegurar el cumplimiento de estándares.\n- **Consumo de RESTful APIs**: Integré y consumí recursos de RESTful APIs y servicios de terceros utilizando HTTP y observables, optimizando las peticiones al servidor.\n- **Competencia en Tecnologías**: Demostré competencia sólida en TypeScript, HTML, CSS y RxJS en el entorno Angular.\n\n**📌 Tecnologías Utilizadas**:\n\n- Angular\n- TypeScript\n- GitLab CI/CD\n- HTML\n- CSS / SCSS\n- Jasmine\n- Visual Studio Code"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Bahia Software",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/b1159cd1-8eea-4b26-b5a8-92ef1b72a36f_linkedin-photo-9741.linkedin-photo-9741",
-            "alt": "24/05/21/b1159cd1-8eea-4b26-b5a8-92ef1b72a36f_linkedin-photo-9741.linkedin-photo-9741"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Web Developer | Vue",
-            "startDate": "2022-01-01",
-            "finishDate": "2022-09-30",
-            "challenges": [
-              {
-                "description": "Desarrollador Frontend en Bahia Software:\n\n- **Desarrollo de Aplicaciones con VueJS 3**: Desarrollé aplicaciones utilizando VueJS 3, Pinia, Vite y TypeScript, enfocándome en la eficiencia y la escalabilidad.\n- **Optimización con Vite**: Configuré Vite para optimizar la construcción y desarrollo de aplicaciones en VueJS, reduciendo significativamente los tiempos de compilación y mejorando la eficiencia en el desarrollo.\n- **Diseño de Web Components**: Diseñé y desarrollé Web Components para mejorar la reusabilidad del código, facilitando la consistencia y mantenibilidad del software.\n- **Control de Versiones**: Utilicé SVN y Git para el control de versiones, asegurando una gestión eficiente y segura del código fuente.\n- **Implementación de Domain Driven Design (DDD)**: Implementé Domain Driven Design (DDD) para optimizar la estructura del software y la arquitectura de la aplicación, asegurando una mayor coherencia y modularidad.\n- **Cumplimiento de Estándares de Calidad**: Garanticé el cumplimiento de los estándares de calidad de SonarQube, resultando en un código más confiable y seguro.\n- **Pruebas con Vitest**: Realicé pruebas exhaustivas con Vitest para verificar la funcionalidad y el rendimiento del software, lo que permitió entregas de calidad y sin errores.\n\n**📌 Tecnologías Utilizadas**:\n\n- VueJS 3.x (composition API)\n- Pinia\n- Vite 2.x - 3.x\n- TypeScript 4.x\n- HTML\n- CSS / SASS\n- Visual Studio Code\n- Docker\n- Web Components\n- SVN / Git\n- Domain Driven Design (DDD)\n- Vitest"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Servicios Reunidos. Expertos en punto de venta",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/61ee5fad-3b2d-42aa-9247-0a92d5ee216d_linkedin-photo-9741.linkedin-photo-9741",
-            "alt": "24/05/21/61ee5fad-3b2d-42aa-9247-0a92d5ee216d_linkedin-photo-9741.linkedin-photo-9741"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Web Developer | Vue",
-            "startDate": "2021-03-01",
-            "finishDate": "2022-01-31",
-            "challenges": [
-              {
-                "description": "Desarrollador Frontend en Servicios Reunidos:\n\n- **Desarrollo de CRM y Backoffice**: Contribuí al desarrollo de un CRM y backoffice utilizando VueJS, GraphQL, HTML y SASS, mejorando la gestión y visualización de datos de clientes y simplificando las operaciones internas.\n- **Gestión de Datos con MongoDB**: Gestioné datos con MongoDB, asegurando una administración eficiente y estructurada de la información.\n- **Web Scraping con Python**: Apliqué técnicas de web scraping con Python para extraer y analizar datos, mejorando la calidad y cantidad de información disponible.\n- **Integración de GraphQL (Hasura)**: Utilicé GraphQL (Hasura) para gestionar y manipular datos en nuestra base de datos, optimizando las consultas y mejorando la eficiencia.\n- **Implementación de Google Maps API**: Implementé funcionalidades de geolocalización utilizando la Google Maps API, proporcionando capacidades avanzadas de ubicación en las aplicaciones.\n- **Trabajo en Equipo con KANBAN**: Colaboré eficazmente con el equipo siguiendo la metodología KANBAN, asegurando una gestión ágil y eficiente de los proyectos.\n\n**📌 Tecnologías Utilizadas**:\n\n- VueJS 3\n- GraphQL (Hasura)\n- HTML\n- SASS\n- Visual Studio Code\n- MongoDB\n- Docker\n- Web Scraping (Python)\n- Google Maps API"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Indra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/5ce3725a-dc3c-496d-a712-7f4e43d55891_linkedin-photo-9741.linkedin-photo-9741",
-            "alt": "24/05/21/5ce3725a-dc3c-496d-a712-7f4e43d55891_linkedin-photo-9741.linkedin-photo-9741"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Junior | Angular | .Net",
-            "startDate": "2020-03-01",
-            "finishDate": "2020-08-31",
-            "challenges": [
-              {
-                "description": "- **Aprendizaje y Aplicación de Tecnologías**: En mi primer contacto con el mundo del desarrollo de software, tuve la oportunidad de aprender y trabajar con una variedad de tecnologías y herramientas, adquiriendo una base sólida en desarrollo de software.\n- **Desarrollo Frontend con Angular**: Trabajé con Angular para el desarrollo de aplicaciones frontend, creando interfaces de usuario interactivas y dinámicas.\n- **Implementación de REST APIs con .NET y C#**: Implementé REST APIs utilizando .NET y C#, facilitando la comunicación entre el frontend y backend y mejorando la eficiencia del desarrollo.\n- **Metodología Ágil SCRUM**: Seguí la metodología ágil SCRUM para el desarrollo de proyectos, lo que me permitió trabajar de manera eficiente y adaptarme a los cambios que surgieron durante el proceso de desarrollo.\n- **Control de Versiones con GitLab**: Utilicé GitLab para el control de versiones y la gestión del código fuente, asegurando una colaboración efectiva y una gestión segura del código.\n- **Entornos de Desarrollo**: Utilicé Visual Studio Code y Visual Studio Community como mis principales entornos de desarrollo, mejorando la productividad y eficiencia en la escritura de código.\n- **Administración de Bases de Datos**: Administré bases de datos utilizando SQL Management Studio, asegurando la integridad y eficiencia en el manejo de datos.\n- **Depuración y Optimización**: Utilicé Chrome DevTools para la depuración y optimización de aplicaciones web, mejorando el rendimiento y la experiencia del usuario.\n- **Colaboración con Microsoft Teams**: Colaboré y me comuniqué con mi equipo utilizando Microsoft Teams, facilitando la coordinación y el trabajo en equipo.\n\n**📌 Tecnologías y Herramientas Utilizadas**:\n\n- Angular\n- .NET / C#\n- SCRUM\n- GitLab\n- Visual Studio Code\n- Visual Studio Community\n- SQL Management Studio\n- Chrome DevTools\n- Microsoft Teams\n- SASS"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Indra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/b414ee57-0496-4b59-9193-15c16505b537_linkedin-photo-9741.linkedin-photo-9741",
-            "alt": "24/05/21/b414ee57-0496-4b59-9193-15c16505b537_linkedin-photo-9741.linkedin-photo-9741"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Junior | Angular | .Net",
-            "startDate": "2019-03-01",
-            "finishDate": "2019-08-31",
-            "challenges": [
-              {
-                "description": "- **Aprendizaje y Aplicación de Tecnologías**: En mi primer contacto con el mundo del desarrollo de software, tuve la oportunidad de aprender y trabajar con una variedad de tecnologías y herramientas, adquiriendo una base sólida en desarrollo de software.\n- **Desarrollo Frontend con Angular**: Trabajé con Angular para el desarrollo de aplicaciones frontend, creando interfaces de usuario interactivas y dinámicas.\n- **Implementación de REST APIs con .NET y C#**: Implementé REST APIs utilizando .NET y C#, facilitando la comunicación entre el frontend y backend y mejorando la eficiencia del desarrollo.\n- **Metodología Ágil SCRUM**: Seguí la metodología ágil SCRUM para el desarrollo de proyectos, lo que me permitió trabajar de manera eficiente y adaptarme a los cambios que surgieron durante el proceso de desarrollo.\n- **Control de Versiones con GitLab**: Utilicé GitLab para el control de versiones y la gestión del código fuente, asegurando una colaboración efectiva y una gestión segura del código.\n- **Entornos de Desarrollo**: Utilicé Visual Studio Code y Visual Studio Community como mis principales entornos de desarrollo, mejorando la productividad y eficiencia en la escritura de código.\n- **Administración de Bases de Datos**: Administré bases de datos utilizando SQL Management Studio, asegurando la integridad y eficiencia en el manejo de datos.\n- **Depuración y Optimización**: Utilicé Chrome DevTools para la depuración y optimización de aplicaciones web, mejorando el rendimiento y la experiencia del usuario.\n- **Colaboración con Microsoft Teams**: Colaboré y me comuniqué con mi equipo utilizando Microsoft Teams, facilitando la coordinación y el trabajo en equipo.\n\n**📌 Tecnologías y Herramientas Utilizadas**:\n\n- Angular\n- .NET / C#\n- SCRUM\n- GitLab\n- Visual Studio Code\n- Visual Studio Community\n- SQL Management Studio\n- Chrome DevTools\n- Microsoft Teams\n- SASS"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Replay | Proveedor de Servicios Autorizado Apple"
-        },
-        "roles": [
-          {
-            "name": "Servicio técnico",
-            "startDate": "2018-04-01",
-            "finishDate": "2018-06-30",
-            "challenges": [
-              {
-                "description": "Práticas\n\n- **Reparación de Dispositivos Apple**: Realicé diagnósticos y reparaciones de dispositivos Apple, asegurando que los productos funcionaran correctamente y los clientes estuvieran satisfechos.\n- **Servicio al Cliente**: Proporcioné asistencia técnica y soporte a los clientes, ayudándoles a resolver problemas técnicos y mejorando su experiencia con los productos Apple."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -397,8 +253,8 @@
         "institution": {
           "name": "HACK A BOSS",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/f167d4cb-8885-4fe0-bd06-3371bc46afcc_linkedin-photo-9741.linkedin-photo-9741",
-            "alt": "24/05/21/f167d4cb-8885-4fe0-bd06-3371bc46afcc_linkedin-photo-9741.linkedin-photo-9741"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/21/ea07abb2-07fc-4d22-845f-e05bbafed89c_linkedin-photo-9741.linkedin-photo-9741",
+            "alt": "24/05/21/ea07abb2-07fc-4d22-845f-e05bbafed89c_linkedin-photo-9741.linkedin-photo-9741"
           }
         },
         "finishDate": "2021-03-31"
