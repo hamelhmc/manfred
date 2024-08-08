@@ -76,7 +76,7 @@
             "startDate": "2024-03-01",
             "challenges": [
               {
-                "description": "Skills: Componentes web · Branding · Automatización · Seguimiento · Tecnologías web · Automatización de pruebas · Sistema de gestión de bases de datos (SGBD) · Patrones de diseño · Marca personal · Factoring · Puesta en producción · Diseño web · Diseño de software · Aprendizaje · Principios SOLID"
+                "description": "- **Desarrollo de Aplicaciones VueJS**: Implementé y mantuve aplicaciones utilizando VueJS 3, Pinia, Vite y TypeScript para una plataforma ecommerce.\n- **Resolución de Incidencias y Nuevas Funcionalidades**: Gestioné y resolví incidencias en producción y desarrollé nuevas funcionalidades para mejorar continuamente la plataforma.\n- **Pruebas y Calidad del Código**: Apliqué pruebas unitarias utilizando herramientas como Vitest y Jest, garantizando la fiabilidad y calidad del código."
               }
             ]
           }
