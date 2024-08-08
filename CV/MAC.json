@@ -269,13 +269,31 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "XML",
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -440,6 +458,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "Nuxt.js",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "- Desarrollo de aplicaciones web o móviles utilizando diferentes tecnologías.\n\n- Diseño y desarrollo de interfaces de usuario (UI) y experiencia de usuario (UX) atractivas y fáciles de usar.\n\n- Trabajo en equipo y colaboración con otros desarrolladores y profesionales de TI para resolver problemas y mejorar productos.\n\n- Aplicación de metodologías ágiles y buenas prácticas de desarrollo, como el código limpio y el desarrollo de productos mínimos viables (MVP).\n\nLo que me motiva podría ser la oportunidad de trabajar en proyectos interesantes y desafiantes que me permitan seguir aprendiendo y mejorando mis habilidades. Valoraría un entorno de trabajo que me permita trabajar en equipo y colaborar con otros profesionales, y que me ofrezca oportunidades de formación y crecimiento.\n\nUn día de trabajo ideal para mi podría incluir tiempo para codificar y resolver problemas técnicos, así como tiempo para colaborar con otros miembros del equipo y participar en reuniones y discusiones técnicas.",
     "goodPractices": "Como desarrollador frontend en Angular y Vue, existen varias buenas prácticas que suelo aplicar en mi trabajo para garantizar un código limpio, eficiente y mantenible. Estas prácticas se basan tanto en el conocimiento teórico como en la experiencia práctica adquirida a lo largo del tiempo. A continuación, describiré algunas de las buenas prácticas que considero importantes:\n\nEstructura del proyecto\n\nEs fundamental establecer una estructura de directorios coherente y bien organizada. Tanto Angular como Vue proporcionan guías de estilo para organizar el proyecto de manera adecuada. Por ejemplo, en Angular se recomienda utilizar módulos, componentes y servicios separados en carpetas específicas. En Vue, la estructura típica se basa en los componentes, vistas y rutas. Seguir estas convenciones facilita la navegación y el mantenimiento del código.\n\nComponentes reutilizables\n\nEs esencial diseñar y desarrollar componentes reutilizables en ambos frameworks. Esto implica identificar elementos comunes en la interfaz de usuario y extraerlos como componentes independientes. De esta manera, se evita la duplicación de código y se promueve la coherencia en el diseño. Además, se debe tener cuidado de mantener la lógica del componente específica y separada de la lógica de negocio.\n\nMantener la coherencia del código\n\nEs importante seguir una guía de estilo consistente en todo el proyecto. Esto incluye la nomenclatura de variables y funciones, la indentación, el uso de espacios en blanco y otros estándares de codificación. Para Angular, es recomendable seguir la guía de estilo oficial proporcionada por el equipo de Angular. Vue también tiene una guía de estilo recomendada que se puede seguir para mantener la consistencia en el código.\n\nGestión del estado\n\nTanto Angular como Vue tienen sus propias soluciones para manejar el estado de la aplicación. En Angular, se utiliza el patrón de gestión de estado basado en servicios y observables. En Vue, se recomienda el uso de Vuex para el manejo centralizado del estado. Es importante comprender y utilizar estas herramientas adecuadamente para evitar el acoplamiento excesivo y facilitar el mantenimiento y la escalabilidad de la aplicación.\n\nPruebas unitarias\n\nLas pruebas unitarias son esenciales para garantizar la calidad del código y evitar posibles errores. Tanto Angular como Vue proporcionan herramientas y marcos de prueba integrados. Es importante desarrollar pruebas unitarias para los componentes, servicios y cualquier otra lógica crítica de la aplicación. Estas pruebas deben abarcar diferentes escenarios y casos de uso para garantizar un buen nivel de cobertura.\n\nRendimiento\n\nEl rendimiento es un aspecto crucial en el desarrollo frontend. Se deben aplicar técnicas de optimización, como la carga diferida (lazy loading) de módulos, el uso eficiente de la detección de cambios (change detection) y el manejo adecuado de la memoria. Además, se pueden implementar técnicas de almacenamiento en caché y compresión para mejorar el tiempo de carga y la experiencia del usuario.\n\nActualización y seguimiento de las últimas tendencias\n\nComo desarrollador, es fundamental mantenerse actualizado con las últimas tendencias y novedades.\n",
     "projects": [
