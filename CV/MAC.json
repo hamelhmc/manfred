@@ -179,6 +179,32 @@
               {
                 "description": "- Contribuí al desarrollo de un CRM y backoffice utilizando VueJS, GraphQL, HTML y SASS, mejorando la gestión y visualización de datos de clientes y simplificando las operaciones internas.\n- Gestioné datos con MongoDB\n- Apliqué técnicas de web scraping con Python para extraer y analizar datos, mejorando la calidad y cantidad de información disponible.\n- Utilicé GraphQL (Hasura) para gestionar y manipular datos en nuestra base de datos, optimizando las consultas y mejorando la eficiencia.\n- Implementé funcionalidades de geolocalización utilizando la Google Maps API\n- Colaboré eficazmente con el equipo siguiendo la metodología KANBAN\n\n📌 Tecnologías Utilizadas:\n\n- VueJS 3\n- GraphQL (Hasura)\n- HTML\n- SASS\n- Visual Studio Code\n- MongoDB\n- Docker\n- Web Scraping (Python)\n- Google Maps API"
               }
+            ],
+            "competences": [
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Scrapy",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
             ]
           }
         ]
