@@ -117,6 +117,20 @@
               {
                 "description": "- Desarrollo de bibliotecas/librerias Angular para proyectos bancarios.\n- Gestión de CI/CD con GitLab y aplicación de pruebas con Jasmine y Karma.\n- Automatización de procesos y consumo de APIs RESTful.\n- Automatización de procesos de desarrollo mediante scripts en JavaScript, mejorando la productividad del equipo.\n\n📌 Tecnologías Utilizadas:\n- Angular\n- TypeScript\n- GitLab CI/CD\n- HTML\n- CSS / SCSS\n- Jasmine\n- Visual Studio Code"
               }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
             ]
           }
         ]
