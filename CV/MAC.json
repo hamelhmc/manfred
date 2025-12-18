@@ -148,6 +148,20 @@
               {
                 "description": "- Desarrollé aplicaciones utilizando VueJS 3, Pinia, Vite y TypeScript, enfocándome en la eficiencia y la escalabilidad.\n- Configuré Vite para optimizar la construcción y desarrollo de aplicaciones en VueJS, reduciendo significativamente los tiempos de compilación y mejorando la eficiencia en el desarrollo.\n- Diseñé y desarrollé Web Components para mejorar la reusabilidad del código, facilitando la consistencia y mantenibilidad del software.\n- Utilicé SVN y Git para el control de versiones, asegurando una gestión eficiente y segura del código fuente.\n- Implementé Domain Driven Design (DDD) para optimizar la estructura del software y la arquitectura de la aplicación, asegurando una mayor coherencia y modularidad.\n- Garanticé el cumplimiento de los estándares de calidad de SonarQube, resultando en un código más confiable y seguro.\n- Realicé pruebas exhaustivas con Vitest para verificar la funcionalidad y el rendimiento del software, lo que permitió entregas de calidad y sin errores.\n\n📌 Tecnologías Utilizadas:\n\n- VueJS 3.x (composition API)\n- Pinia\n- Vite 2.x - 3.x\n- TypeScript 4.x\n- HTML\n- CSS / SASS\n- Visual Studio Code\n- Docker\n- Web Components\n- SVN / Git\n- Domain Driven Design (DDD)\n- Vitest"
               }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
             ]
           }
         ]
