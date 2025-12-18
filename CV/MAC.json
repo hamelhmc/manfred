@@ -253,6 +253,20 @@
               {
                 "description": "- En mi primer contacto con el mundo del desarrollo de software, tuve la oportunidad de aprender y trabajar con una variedad de tecnologías y herramientas, adquiriendo una base sólida en desarrollo de software.\n- Trabajé con Angular para el desarrollo de aplicaciones frontend, creando interfaces de usuario interactivas y dinámicas.\n- Implementé REST APIs utilizando .NET y C#, facilitando la comunicación entre el frontend y backend y mejorando la eficiencia del desarrollo.\n- Seguí la metodología ágil SCRUM para el desarrollo de proyectos, lo que me permitió trabajar de manera eficiente y adaptarme a los cambios que surgieron durante el proceso de desarrollo.\n- Utilicé GitLab para el control de versiones y la gestión del código fuente, asegurando una colaboración efectiva y una gestión segura del código.\n- Utilicé Visual Studio Code y Visual Studio Community como mis principales entornos de desarrollo, mejorando la productividad y eficiencia en la escritura de código.\n- Administré bases de datos utilizando SQL Management Studio, asegurando la integridad y eficiencia en el manejo de datos.\n- Utilicé Chrome DevTools para la depuración y optimización de aplicaciones web, mejorando el rendimiento y la experiencia del usuario.\n\n📌 Tecnologías Utilizadas:\n\n- Angular\n- .NET / C#\n- SCRUM\n- GitLab\n- Visual Studio Code\n- Visual Studio Community\n- SQL Management Studio\n- Chrome DevTools\n- Microsoft Teams\n- SASS"
               }
+            ],
+            "competences": [
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              }
             ]
           }
         ]
