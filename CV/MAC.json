@@ -72,7 +72,33 @@
             "startDate": "2024-03-01",
             "challenges": [
               {
-                "description": "- Desarrollo de aplicaciones VueJS 3, Pinia y Vite para plataformas ecommerce.\n- Gestión de incidencias en producción y desarrollo de nuevas funcionalidades.\n- Aplicación de pruebas unitarias con Vitest y Jest."
+                "description": "- Desarrollo y mantenimiento de la navegación principal del e-commerce, en un entorno de alta criticidad y tráfico.\n- Trabajo sobre framework SSR propio basado en Vue, con Node.js como capa de servidor.\n- Participación activa en tareas de CORE y arquitectura, colaborando en decisiones técnicas transversales al producto.\n- Realización de guardias de Producción (Nivel 2), analizando y resolviendo incidencias críticas en entornos productivos.\n- Aportación de análisis técnico en Historias de Usuario, identificando riesgos, dependencias y propuestas de solución.\n- Referente técnico del equipo, asegurando calidad de código, coherencia técnica y buenas prácticas.\n- Elaboración y mantenimiento de documentación técnica.\n- Participación como entrevistador técnico en fases finales de procesos de selección.\n- Implementación de testing con Jest y Vue Testing Library"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
               }
             ]
           }
